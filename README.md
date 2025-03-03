@@ -1,3 +1,7 @@
+https://tic-tac-toe-omega-coral.vercel.app/ 
+# Deployed here to check the output
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
